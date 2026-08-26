@@ -9,7 +9,7 @@ Hi, I'm **Totoro**, a **Full-Stack & AI Agent Engineer**. I enjoy **open source*
   <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&amp;logo=javascript&amp;logoColor=black">
 </p>
 
-### Open-source contributions
+### Recent contributions
 
 - [Cherry Studio #19374](https://github.com/CherryHQ/cherry-studio/pull/19374) · Merged
 - [systemd #43509](https://github.com/systemd/systemd/pull/43509) · Merged
