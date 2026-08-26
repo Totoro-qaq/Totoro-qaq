@@ -1,0 +1,39 @@
+<!-- https://github.com/DenverCoder1/readme-typing-svg/ -->
+<svg xmlns='http://www.w3.org/2000/svg'
+    xmlns:xlink='http://www.w3.org/1999/xlink'
+    viewBox='0 0 760 50'
+    style='background-color: #00000000;'
+    width='760px' height='50px' role='img' aria-labelledby='intro-title intro-desc'>
+    <title id='intro-title'>Totoro — introduction</title>
+    <desc id='intro-desc'>Hi, I'm Totoro, a Full-Stack &amp; AI Agent Engineer. I enjoy open source and sharing what I learn.</desc>
+
+    
+                <path id='path0'>
+                            <!-- Single line -->
+                                <animate id='d0' attributeName='d' begin='0s;d1.end'
+                    dur='4600ms' fill='remove'
+                    values='m0,25 h0 ; m0,25 h760 ; m0,25 h760 ; m0,25 h0' keyTimes='0;0.52173913043478;0.8695652173913;1' />
+                    </path>
+    <text font-family='"monospace", monospace' fill='#58A6FF' font-size='22'
+        dominant-baseline='middle'
+        x='0%' text-anchor='start'
+        letter-spacing='normal'>
+        <textPath xlink:href='#path0'>
+            Hi, I&#039;m Totoro, a Full-Stack &amp; AI Agent Engineer.
+        </textPath>
+    </text>
+        <path id='path1'>
+                            <!-- Single line -->
+                                <animate id='d1' attributeName='d' begin='d0.end'
+                    dur='4600ms' fill='remove'
+                    values='m0,25 h0 ; m0,25 h760 ; m0,25 h760 ; m0,25 h0' keyTimes='0;0.52173913043478;0.8695652173913;1' />
+                    </path>
+    <text font-family='"monospace", monospace' fill='#58A6FF' font-size='22'
+        dominant-baseline='middle'
+        x='0%' text-anchor='start'
+        letter-spacing='normal'>
+        <textPath xlink:href='#path1'>
+            I enjoy open source and sharing what I learn.
+        </textPath>
+    </text>
+</svg>

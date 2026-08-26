@@ -1,4 +1,7 @@
-Hi, I'm **Totoro**, a **Full-Stack & AI Agent Engineer**. I enjoy **open source** and **sharing what I learn**.
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/intro-dark.svg">
+  <img src="./assets/intro-light.svg" width="760" alt="Hi, I'm Totoro, a Full-Stack &amp; AI Agent Engineer. I enjoy open source and sharing what I learn.">
+</picture>
 
 ### Programming
 
@@ -15,3 +18,10 @@ Hi, I'm **Totoro**, a **Full-Stack & AI Agent Engineer**. I enjoy **open source*
 - [systemd #43509](https://github.com/systemd/systemd/pull/43509) · Merged
 
 **Open-source projects:** [dsh-plugin-bridge](https://github.com/Totoro-qaq/dsh-plugin-bridge) · [Restork](https://github.com/Totoro-qaq/restork) · [Cobsidian](https://github.com/Totoro-qaq/Cobsidian).
+
+<p>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Totoro-qaq/Totoro-qaq/output/github-contribution-grid-snake-dark.svg">
+    <img src="https://raw.githubusercontent.com/Totoro-qaq/Totoro-qaq/output/github-contribution-grid-snake.svg" width="100%" alt="Snake animation of Totoro's GitHub contribution graph">
+  </picture>
+</p>
