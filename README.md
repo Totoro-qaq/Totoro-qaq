@@ -12,6 +12,29 @@
   <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&amp;logo=javascript&amp;logoColor=black">
 </p>
 
+### Open-source projects
+
+<table>
+  <tr>
+    <td>
+      <a href="https://github.com/Totoro-qaq/dsh-plugin-bridge"><strong>dsh-plugin-bridge</strong></a><br>
+      <sub>Previewable cross-preset session handoffs for DeepSeek Harness.</sub>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <a href="https://github.com/Totoro-qaq/restork"><strong>Restork</strong></a><br>
+      <sub>A local-first desktop agent workspace with reviewable writes.</sub>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <a href="https://github.com/Totoro-qaq/Cobsidian"><strong>Cobsidian</strong></a><br>
+      <sub>An agent-agnostic workflow for maintaining Obsidian knowledge bases.</sub>
+    </td>
+  </tr>
+</table>
+
 ### Recent contributions
 
 <table>
@@ -34,8 +57,6 @@
     </td>
   </tr>
 </table>
-
-**Open-source projects:** [dsh-plugin-bridge](https://github.com/Totoro-qaq/dsh-plugin-bridge) · [Restork](https://github.com/Totoro-qaq/restork) · [Cobsidian](https://github.com/Totoro-qaq/Cobsidian).
 
 <p>
   <picture>
