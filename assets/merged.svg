@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="92" height="26" viewBox="0 0 92 26" role="img" aria-labelledby="title desc">
+  <title id="title">Merged</title>
+  <desc id="desc">This pull request has been merged.</desc>
+  <rect x="0.5" y="0.5" width="91" height="25" rx="12.5" fill="#f6f0ff" stroke="#d8c4f4"/>
+  <g fill="none" stroke="#8250df" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round">
+    <circle cx="13" cy="7" r="2"/><circle cx="13" cy="19" r="2"/><circle cx="23" cy="15" r="2"/>
+    <path d="M13 9v8M15 8c1 5 4 7 6 7"/>
+  </g>
+  <text x="34" y="17" fill="#6639ba" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Arial,sans-serif" font-size="12" font-weight="600">Merged</text>
+</svg>

@@ -14,8 +14,26 @@
 
 ### Recent contributions
 
-- [Cherry Studio #19374](https://github.com/CherryHQ/cherry-studio/pull/19374) · Merged
-- [systemd #43509](https://github.com/systemd/systemd/pull/43509) · Merged
+<table>
+  <tr>
+    <td>
+      <a href="https://github.com/CherryHQ/cherry-studio/pull/19374"><strong>Cherry Studio #19374</strong></a><br>
+      <sub>Repair incomplete DSH installs</sub>
+    </td>
+    <td>
+      <a href="https://github.com/CherryHQ/cherry-studio/pull/19374"><img src="./assets/merged.svg" width="92" height="26" alt="Merged"></a>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <a href="https://github.com/systemd/systemd/pull/43509"><strong>systemd #43509</strong></a><br>
+      <sub>Set ping group range for userns containers</sub>
+    </td>
+    <td>
+      <a href="https://github.com/systemd/systemd/pull/43509"><img src="./assets/merged.svg" width="92" height="26" alt="Merged"></a>
+    </td>
+  </tr>
+</table>
 
 **Open-source projects:** [dsh-plugin-bridge](https://github.com/Totoro-qaq/dsh-plugin-bridge) · [Restork](https://github.com/Totoro-qaq/restork) · [Cobsidian](https://github.com/Totoro-qaq/Cobsidian).
 
