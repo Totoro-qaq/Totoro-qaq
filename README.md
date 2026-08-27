@@ -17,19 +17,19 @@
 <table>
   <tr>
     <td>
-      <a href="https://github.com/Totoro-qaq/dsh-plugin-bridge"><strong>dsh-plugin-bridge</strong></a><br>
+      <a href="https://github.com/Totoro-qaq/dsh-plugin-bridge"><strong>Totoro-qaq/dsh-plugin-bridge</strong></a><br>
       <sub>Previewable cross-preset session handoffs for DeepSeek Harness.</sub>
     </td>
   </tr>
   <tr>
     <td>
-      <a href="https://github.com/Totoro-qaq/restork"><strong>Restork</strong></a><br>
+      <a href="https://github.com/Totoro-qaq/restork"><strong>Totoro-qaq/restork</strong></a><br>
       <sub>A local-first desktop agent workspace with reviewable writes.</sub>
     </td>
   </tr>
   <tr>
     <td>
-      <a href="https://github.com/Totoro-qaq/Cobsidian"><strong>Cobsidian</strong></a><br>
+      <a href="https://github.com/Totoro-qaq/Cobsidian"><strong>Totoro-qaq/Cobsidian</strong></a><br>
       <sub>An agent-agnostic workflow for maintaining Obsidian knowledge bases.</sub>
     </td>
   </tr>
@@ -40,7 +40,7 @@
 <table>
   <tr>
     <td>
-      <a href="https://github.com/CherryHQ/cherry-studio/pull/19374"><strong>Cherry Studio #19374</strong></a><br>
+      <a href="https://github.com/CherryHQ/cherry-studio/pull/19374"><strong>CherryHQ/cherry-studio #19374</strong></a><br>
       <sub>Repair incomplete DSH installs</sub>
     </td>
     <td>
@@ -49,7 +49,7 @@
   </tr>
   <tr>
     <td>
-      <a href="https://github.com/systemd/systemd/pull/43509"><strong>systemd #43509</strong></a><br>
+      <a href="https://github.com/systemd/systemd/pull/43509"><strong>systemd/systemd #43509</strong></a><br>
       <sub>Set ping group range for userns containers</sub>
     </td>
     <td>
