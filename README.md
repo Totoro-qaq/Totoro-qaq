@@ -40,6 +40,15 @@
 <table>
   <tr>
     <td>
+      <a href="https://github.com/CopilotKit/CopilotKit/pull/6682"><strong>CopilotKit/CopilotKit #6682</strong></a><br>
+      <sub>Render all v1 tool calls with their matching results</sub>
+    </td>
+    <td>
+      <a href="https://github.com/CopilotKit/CopilotKit/pull/6682"><img src="./assets/merged.svg" width="92" height="26" alt="Merged"></a>
+    </td>
+  </tr>
+  <tr>
+    <td>
       <a href="https://github.com/CherryHQ/cherry-studio/pull/19374"><strong>CherryHQ/cherry-studio #19374</strong></a><br>
       <sub>Repair incomplete DSH installs</sub>
     </td>
