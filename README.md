@@ -35,46 +35,16 @@
   </tr>
 </table>
 
-### Recent contributions
+### Notable merged contributions
 
-<table>
-  <tr>
-    <td>
-      <a href="https://github.com/apache/maka/pull/4670"><strong>apache/maka #4670</strong></a><br>
-      <sub>Propagate OpenCode Go session identity</sub>
-    </td>
-    <td>
-      <a href="https://github.com/apache/maka/pull/4670"><img src="./assets/merged.svg" width="92" height="26" alt="Merged"></a>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <a href="https://github.com/CopilotKit/CopilotKit/pull/6682"><strong>CopilotKit/CopilotKit #6682</strong></a><br>
-      <sub>Render all v1 tool calls with their matching results</sub>
-    </td>
-    <td>
-      <a href="https://github.com/CopilotKit/CopilotKit/pull/6682"><img src="./assets/merged.svg" width="92" height="26" alt="Merged"></a>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <a href="https://github.com/CherryHQ/cherry-studio/pull/19374"><strong>CherryHQ/cherry-studio #19374</strong></a><br>
-      <sub>Repair incomplete DSH installs</sub>
-    </td>
-    <td>
-      <a href="https://github.com/CherryHQ/cherry-studio/pull/19374"><img src="./assets/merged.svg" width="92" height="26" alt="Merged"></a>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <a href="https://github.com/systemd/systemd/pull/43509"><strong>systemd/systemd #43509</strong></a><br>
-      <sub>Set ping group range for userns containers</sub>
-    </td>
-    <td>
-      <a href="https://github.com/systemd/systemd/pull/43509"><img src="./assets/merged.svg" width="92" height="26" alt="Merged"></a>
-    </td>
-  </tr>
-</table>
+| Project | Contribution | PR |
+| --- | --- | --- |
+| [systemd/systemd](https://github.com/systemd/systemd) | Enable ping in user-namespace containers; honor `--root` for network credentials. | [#43509](https://github.com/systemd/systemd/pull/43509), [#43644](https://github.com/systemd/systemd/pull/43644) |
+| [apache/maka](https://github.com/apache/maka) | Propagate OpenCode Go session identity. | [#4670](https://github.com/apache/maka/pull/4670) |
+| [CopilotKit/CopilotKit](https://github.com/CopilotKit/CopilotKit) | Render all v1 tool calls with their matching results. | [#6682](https://github.com/CopilotKit/CopilotKit/pull/6682) |
+| [CherryHQ/cherry-studio](https://github.com/CherryHQ/cherry-studio) | Repair incomplete DSH installs. | [#19374](https://github.com/CherryHQ/cherry-studio/pull/19374) |
+
+[View all merged contributions →](https://github.com/search?q=author%3ATotoro-qaq+is%3Apr+is%3Amerged+-user%3ATotoro-qaq&type=pullrequests)
 
 <p>
   <picture>
