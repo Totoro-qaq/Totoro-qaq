@@ -15,34 +15,61 @@
 ### Open-source projects
 
 <table>
-  <tr>
-    <td>
-      <a href="https://github.com/Totoro-qaq/dsh-plugin-bridge"><strong>Totoro-qaq/dsh-plugin-bridge</strong></a><br>
-      <sub>Previewable cross-preset session handoffs for DeepSeek Harness.</sub>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <a href="https://github.com/Totoro-qaq/restork"><strong>Totoro-qaq/restork</strong></a><br>
-      <sub>A local-first desktop agent workspace with reviewable writes.</sub>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <a href="https://github.com/Totoro-qaq/Cobsidian"><strong>Totoro-qaq/Cobsidian</strong></a><br>
-      <sub>An agent-agnostic workflow for maintaining Obsidian knowledge bases.</sub>
-    </td>
-  </tr>
+  <thead>
+    <tr>
+      <th align="center" valign="middle">Project</th>
+      <th align="center" valign="middle">Description</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td align="center" valign="middle"><strong><a href="https://github.com/Totoro-qaq/dsh-plugin-bridge">Totoro-qaq/dsh-plugin-bridge</a></strong></td>
+      <td align="left" valign="middle">Previewable cross-preset session handoffs for DeepSeek Harness.</td>
+    </tr>
+    <tr>
+      <td align="center" valign="middle"><strong><a href="https://github.com/Totoro-qaq/restork">Totoro-qaq/restork</a></strong></td>
+      <td align="left" valign="middle">A local-first desktop agent workspace with reviewable writes.</td>
+    </tr>
+    <tr>
+      <td align="center" valign="middle"><strong><a href="https://github.com/Totoro-qaq/Cobsidian">Totoro-qaq/Cobsidian</a></strong></td>
+      <td align="left" valign="middle">An agent-agnostic workflow for maintaining Obsidian knowledge bases.</td>
+    </tr>
+  </tbody>
 </table>
 
 ### Notable merged contributions
 
-| Project | Contribution | PR |
-| --- | --- | --- |
-| [systemd/systemd](https://github.com/systemd/systemd) | Enable ping in user-namespace containers; honor `--root` for network credentials. | [#43509](https://github.com/systemd/systemd/pull/43509), [#43644](https://github.com/systemd/systemd/pull/43644) |
-| [apache/maka](https://github.com/apache/maka) | Propagate OpenCode Go session identity. | [#4670](https://github.com/apache/maka/pull/4670) |
-| [CopilotKit/CopilotKit](https://github.com/CopilotKit/CopilotKit) | Render all v1 tool calls with their matching results. | [#6682](https://github.com/CopilotKit/CopilotKit/pull/6682) |
-| [CherryHQ/cherry-studio](https://github.com/CherryHQ/cherry-studio) | Repair incomplete DSH installs. | [#19374](https://github.com/CherryHQ/cherry-studio/pull/19374) |
+<table>
+  <thead>
+    <tr>
+      <th align="center" valign="middle">Project</th>
+      <th align="center" valign="middle">Contribution</th>
+      <th align="center" valign="middle">PR</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td align="center" valign="middle"><strong><a href="https://github.com/systemd/systemd">systemd/systemd</a></strong></td>
+      <td align="left" valign="middle">Enable ping in user-namespace containers; honor <code>--root</code> for network credentials.</td>
+      <td align="center" valign="middle"><a href="https://github.com/systemd/systemd/pull/43509">#43509</a>, <a href="https://github.com/systemd/systemd/pull/43644">#43644</a></td>
+    </tr>
+    <tr>
+      <td align="center" valign="middle"><strong><a href="https://github.com/apache/maka">apache/maka</a></strong></td>
+      <td align="left" valign="middle">Propagate OpenCode Go session identity.</td>
+      <td align="center" valign="middle"><a href="https://github.com/apache/maka/pull/4670">#4670</a></td>
+    </tr>
+    <tr>
+      <td align="center" valign="middle"><strong><a href="https://github.com/CopilotKit/CopilotKit">CopilotKit/CopilotKit</a></strong></td>
+      <td align="left" valign="middle">Render all v1 tool calls with their matching results.</td>
+      <td align="center" valign="middle"><a href="https://github.com/CopilotKit/CopilotKit/pull/6682">#6682</a></td>
+    </tr>
+    <tr>
+      <td align="center" valign="middle"><strong><a href="https://github.com/CherryHQ/cherry-studio">CherryHQ/cherry-studio</a></strong></td>
+      <td align="left" valign="middle">Repair incomplete DSH installs.</td>
+      <td align="center" valign="middle"><a href="https://github.com/CherryHQ/cherry-studio/pull/19374">#19374</a></td>
+    </tr>
+  </tbody>
+</table>
 
 [View all merged contributions →](https://github.com/search?q=author%3ATotoro-qaq+is%3Apr+is%3Amerged+-user%3ATotoro-qaq&type=pullrequests)
 
