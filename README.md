@@ -14,11 +14,11 @@
 
 ### Open-source projects
 
-<table>
+<table width="100%">
   <thead>
     <tr>
-      <th align="center" valign="middle">Project</th>
-      <th align="center" valign="middle">Description</th>
+      <th width="30%" align="center" valign="middle">Project</th>
+      <th width="640" align="center" valign="middle">Description</th>
     </tr>
   </thead>
   <tbody>
@@ -39,12 +39,12 @@
 
 ### Notable merged contributions
 
-<table>
+<table width="100%">
   <thead>
     <tr>
-      <th align="center" valign="middle">Project</th>
-      <th align="center" valign="middle">Contribution</th>
-      <th align="center" valign="middle">PR</th>
+      <th width="30%" align="center" valign="middle">Project</th>
+      <th width="640" align="center" valign="middle">Contribution</th>
+      <th width="15%" align="center" valign="middle">PR</th>
     </tr>
   </thead>
   <tbody>
