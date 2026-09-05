@@ -23,15 +23,15 @@
   </thead>
   <tbody>
     <tr>
-      <td align="center" valign="middle"><strong><a href="https://github.com/Totoro-qaq/dsh-plugin-bridge">Totoro-qaq/dsh-plugin-bridge</a></strong></td>
+      <td align="center" valign="middle"><strong><a href="https://github.com/Totoro-qaq/dsh-plugin-bridge">dsh-plugin-bridge</a></strong></td>
       <td align="left" valign="middle">Previewable cross-preset session handoffs for DeepSeek Harness.</td>
     </tr>
     <tr>
-      <td align="center" valign="middle"><strong><a href="https://github.com/Totoro-qaq/restork">Totoro-qaq/restork</a></strong></td>
+      <td align="center" valign="middle"><strong><a href="https://github.com/Totoro-qaq/restork">restork</a></strong></td>
       <td align="left" valign="middle">A local-first desktop agent workspace with reviewable writes.</td>
     </tr>
     <tr>
-      <td align="center" valign="middle"><strong><a href="https://github.com/Totoro-qaq/Cobsidian">Totoro-qaq/Cobsidian</a></strong></td>
+      <td align="center" valign="middle"><strong><a href="https://github.com/Totoro-qaq/Cobsidian">Cobsidian</a></strong></td>
       <td align="left" valign="middle">An agent-agnostic workflow for maintaining Obsidian knowledge bases.</td>
     </tr>
   </tbody>
