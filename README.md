@@ -18,7 +18,7 @@
   <thead>
     <tr>
       <th width="30%" align="center" valign="middle">Project</th>
-      <th width="640" align="center" valign="middle">Description</th>
+      <th width="1000" align="center" valign="middle">Description</th>
     </tr>
   </thead>
   <tbody>
