@@ -50,8 +50,8 @@
   <tbody>
     <tr>
       <td align="center" valign="middle"><strong><a href="https://github.com/systemd/systemd">systemd/systemd</a></strong></td>
-      <td align="left" valign="middle">Enable ping in user-namespace containers; honor <code>--root</code> for network credentials.</td>
-      <td align="center" valign="middle"><a href="https://github.com/systemd/systemd/pull/43509">#43509</a>, <a href="https://github.com/systemd/systemd/pull/43644">#43644</a></td>
+      <td align="left" valign="middle">Enable ping in user-namespace containers; honor <code>--root</code> for network credentials; permit sysupdate mount namespaces; preserve read-only mode and report directory-creation errors when cloning foreign-UID images.</td>
+      <td align="center" valign="middle"><a href="https://github.com/systemd/systemd/pull/43509">#43509</a>, <a href="https://github.com/systemd/systemd/pull/43644">#43644</a>, <a href="https://github.com/systemd/systemd/pull/43639">#43639</a>, <a href="https://github.com/systemd/systemd/pull/43654">#43654</a>, <a href="https://github.com/systemd/systemd/pull/43660">#43660</a></td>
     </tr>
     <tr>
       <td align="center" valign="middle"><strong><a href="https://github.com/apache/maka">apache/maka</a></strong></td>
