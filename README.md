@@ -37,39 +37,12 @@
   </tbody>
 </table>
 
-### Notable merged contributions
+### Contributed to
 
-<table width="100%">
-  <thead>
-    <tr>
-      <th width="30%" align="center" valign="middle">Project</th>
-      <th width="640" align="center" valign="middle">Contribution</th>
-      <th width="15%" align="center" valign="middle">PR</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td align="center" valign="middle"><strong><a href="https://github.com/systemd/systemd">systemd/systemd</a></strong></td>
-      <td align="left" valign="middle">Enable ping in user-namespace containers; honor <code>--root</code> for network credentials; permit sysupdate mount namespaces; preserve read-only mode and report directory-creation errors when cloning foreign-UID images.</td>
-      <td align="center" valign="middle"><a href="https://github.com/systemd/systemd/pull/43509">#43509</a>, <a href="https://github.com/systemd/systemd/pull/43644">#43644</a>, <a href="https://github.com/systemd/systemd/pull/43639">#43639</a>, <a href="https://github.com/systemd/systemd/pull/43654">#43654</a>, <a href="https://github.com/systemd/systemd/pull/43660">#43660</a></td>
-    </tr>
-    <tr>
-      <td align="center" valign="middle"><strong><a href="https://github.com/apache/maka">apache/maka</a></strong></td>
-      <td align="left" valign="middle">Propagate OpenCode Go session identity; reject non-boolean goal-evaluation flags to prevent premature completion; regression-test composer Skill catalog context changes.</td>
-      <td align="center" valign="middle"><a href="https://github.com/apache/maka/pull/4670">#4670</a>, <a href="https://github.com/apache/maka/pull/4737">#4737</a>, <a href="https://github.com/apache/maka/pull/4894">#4894</a></td>
-    </tr>
-    <tr>
-      <td align="center" valign="middle"><strong><a href="https://github.com/CopilotKit/CopilotKit">CopilotKit/CopilotKit</a></strong></td>
-      <td align="left" valign="middle">Render all v1 tool calls with their matching results.</td>
-      <td align="center" valign="middle"><a href="https://github.com/CopilotKit/CopilotKit/pull/6682">#6682</a></td>
-    </tr>
-    <tr>
-      <td align="center" valign="middle"><strong><a href="https://github.com/CherryHQ/cherry-studio">CherryHQ/cherry-studio</a></strong></td>
-      <td align="left" valign="middle">Repair incomplete DSH installs.</td>
-      <td align="center" valign="middle"><a href="https://github.com/CherryHQ/cherry-studio/pull/19374">#19374</a></td>
-    </tr>
-  </tbody>
-</table>
+[![systemd](./assets/contributions/systemd.svg)](https://github.com/systemd/systemd/pulls?q=is%3Apr+is%3Amerged+author%3ATotoro-qaq)
+[![Apache Maka](./assets/contributions/apache-maka.svg)](https://github.com/apache/maka/pulls?q=is%3Apr+is%3Amerged+author%3ATotoro-qaq)
+[![CopilotKit](./assets/contributions/copilotkit.svg)](https://github.com/CopilotKit/CopilotKit/pulls?q=is%3Apr+is%3Amerged+author%3ATotoro-qaq)
+[![Cherry Studio](./assets/contributions/cherry-studio.svg)](https://github.com/CherryHQ/cherry-studio/pulls?q=is%3Apr+is%3Amerged+author%3ATotoro-qaq)
 
 [View all merged contributions →](https://github.com/search?q=author%3ATotoro-qaq+is%3Apr+is%3Amerged+-user%3ATotoro-qaq&type=pullrequests)
 
