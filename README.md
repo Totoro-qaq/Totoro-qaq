@@ -55,8 +55,8 @@
     </tr>
     <tr>
       <td align="center" valign="middle"><strong><a href="https://github.com/apache/maka">apache/maka</a></strong></td>
-      <td align="left" valign="middle">Propagate OpenCode Go session identity; reject non-boolean goal-evaluation flags to prevent premature completion.</td>
-      <td align="center" valign="middle"><a href="https://github.com/apache/maka/pull/4670">#4670</a>, <a href="https://github.com/apache/maka/pull/4737">#4737</a></td>
+      <td align="left" valign="middle">Propagate OpenCode Go session identity; reject non-boolean goal-evaluation flags to prevent premature completion; regression-test composer Skill catalog context changes.</td>
+      <td align="center" valign="middle"><a href="https://github.com/apache/maka/pull/4670">#4670</a>, <a href="https://github.com/apache/maka/pull/4737">#4737</a>, <a href="https://github.com/apache/maka/pull/4894">#4894</a></td>
     </tr>
     <tr>
       <td align="center" valign="middle"><strong><a href="https://github.com/CopilotKit/CopilotKit">CopilotKit/CopilotKit</a></strong></td>
