@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="83" height="32" viewBox="0 0 83 32" role="img" aria-labelledby="title">
+  <title id="title">YOLO</title>
+  <desc>AI and machine learning badge. See NOTICE.md for icon sources and licenses.</desc>
+  <rect width="83" height="32" rx="3" fill="#30363d" />
+  <g transform="translate(8 6) scale(.833333)" fill="none" stroke="#ffffff" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M8 3H3v5M16 3h5v5M3 16v5h5M21 16v5h-5" />
+    <rect x="8" y="8" width="8" height="8" rx="1" />
+  </g>
+  <text x="36" y="21" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#ffffff">YOLO</text>
+</svg>

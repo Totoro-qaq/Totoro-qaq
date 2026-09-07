@@ -28,6 +28,27 @@
   <a href="https://www.postgresql.org/"><img src="./assets/tech-stack/postgresql.svg" height="32" alt="PostgreSQL"></a>
 </p>
 
+### AI & Machine Learning
+
+**Models & Training**
+
+<p>
+  <a href="https://docs.ultralytics.com/"><img src="./assets/ai-ml/yolo.svg" height="32" alt="YOLO"></a>
+  <a href="https://huggingface.co/docs/trl/sft_trainer"><img src="./assets/ai-ml/sft.svg" height="32" alt="SFT"></a>
+  <a href="https://huggingface.co/docs/peft/developer_guides/quantization"><img src="./assets/ai-ml/lora-qlora.svg" height="32" alt="LoRA / QLoRA"></a>
+  <a href="https://huggingface.co/docs/trl/dpo_trainer"><img src="./assets/ai-ml/dpo.svg" height="32" alt="DPO"></a>
+  <a href="https://huggingface.co/blog/rlhf"><img src="./assets/ai-ml/rlhf.svg" height="32" alt="RLHF"></a>
+</p>
+
+**Inference & Deployment**
+
+<p>
+  <a href="https://docs.vllm.ai/en/latest/"><img src="./assets/ai-ml/vllm.png" height="32" alt="vLLM"></a>
+  <a href="https://docs.sglang.io/"><img src="./assets/ai-ml/sglang.png" height="32" alt="SGLang"></a>
+  <a href="https://github.com/ggml-org/llama.cpp"><img src="./assets/ai-ml/llama-cpp.svg" height="32" alt="llama.cpp"></a>
+  <a href="https://onnxruntime.ai/"><img src="./assets/ai-ml/onnx-runtime.png" height="32" alt="ONNX Runtime"></a>
+</p>
+
 ### Open-source projects
 
 <table width="100%">
