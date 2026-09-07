@@ -1,5 +1,6 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="111" height="32" viewBox="0 0 111 32" role="img" aria-labelledby="title">
-  <title id="title">Apache Maka contributions</title>
-  <rect width="111" height="32" rx="3" fill="#30363d"/>
-  <text x="55.5" y="21" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="14" fill="#ffffff">Apache Maka</text>
+<svg xmlns="http://www.w3.org/2000/svg" width="94" height="32" viewBox="0 0 94 32" role="img" aria-labelledby="title">
+  <title id="title">Apache Maka merged pull requests</title>
+  <desc>Project name links to merged pull requests by Totoro-qaq.</desc>
+  <path d="M0 0H91Q94 0 94 3V29Q94 32 91 32H0Z" fill="#30363d" />
+  <text x="4" y="21" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#ffffff">Apache Maka</text>
 </svg>

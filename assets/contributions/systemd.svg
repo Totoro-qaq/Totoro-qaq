@@ -1,5 +1,6 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="84" height="32" viewBox="0 0 84 32" role="img" aria-labelledby="title">
-  <title id="title">systemd contributions</title>
-  <rect width="84" height="32" rx="3" fill="#30363d"/>
-  <text x="42" y="21" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="14" fill="#ffffff">systemd</text>
+<svg xmlns="http://www.w3.org/2000/svg" width="63" height="32" viewBox="0 0 63 32" role="img" aria-labelledby="title">
+  <title id="title">systemd merged pull requests</title>
+  <desc>Project name links to merged pull requests by Totoro-qaq.</desc>
+  <path d="M0 0H60Q63 0 63 3V29Q63 32 60 32H0Z" fill="#30363d" />
+  <text x="4" y="21" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#ffffff">systemd</text>
 </svg>

@@ -3,41 +3,30 @@
   <img src="./assets/intro-light.svg" width="760" alt="Hi, I'm Totoro, a Full-Stack &amp; AI Agent Engineer. I enjoy open source and sharing what I learn.">
 </picture>
 
-### Tech stack
+### Languages & Frameworks
 
-<table width="100%">
-  <thead>
-    <tr>
-      <th width="33%" align="left">Languages</th>
-      <th width="67%" align="left">Infrastructure &amp; AI Tooling</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td valign="top">
-      <a href="https://www.python.org/"><img src="./assets/tech-stack/python.svg" height="32" alt="Python"></a>
-      <a href="https://www.rust-lang.org/"><img src="./assets/tech-stack/rust.svg" height="32" alt="Rust"></a>
-      <a href="https://en.cppreference.com/w/c.html"><img src="./assets/tech-stack/c.svg" height="32" alt="C"></a>
-      <a href="https://www.typescriptlang.org/"><img src="./assets/tech-stack/typescript.svg" height="32" alt="TypeScript"></a>
-      </td>
-      <td valign="top">
-      <a href="https://www.kernel.org/"><img src="./assets/tech-stack/linux.svg" height="32" alt="Linux"></a>
-      <a href="https://www.docker.com/"><img src="./assets/tech-stack/docker.svg" height="32" alt="Docker"></a>
-      <a href="https://kubernetes.io/"><img src="./assets/tech-stack/kubernetes.svg" height="32" alt="Kubernetes"></a>
-      <a href="https://aws.amazon.com/"><img src="./assets/tech-stack/aws.svg" height="32" alt="AWS"></a>
-      <a href="https://docs.langchain.com/oss/python/langchain/overview"><img src="./assets/tech-stack/langchain.svg" height="32" alt="LangChain"></a>
-      <a href="https://docs.langchain.com/oss/python/langgraph/overview"><img src="./assets/tech-stack/langgraph.svg" height="32" alt="LangGraph"></a>
-      <a href="https://docs.langchain.com/oss/python/deepagents/overview"><img src="./assets/tech-stack/deepagents.svg" height="32" alt="Deep Agents"></a>
-      <a href="https://langfuse.com/"><img src="./assets/tech-stack/langfuse.svg" height="32" alt="Langfuse"></a>
-      <a href="https://opentelemetry.io/"><img src="./assets/tech-stack/opentelemetry.svg" height="32" alt="OpenTelemetry"></a>
-      <a href="https://milvus.io/"><img src="./assets/tech-stack/milvus.svg" height="32" alt="Milvus"></a>
-      <a href="https://www.postgresql.org/"><img src="./assets/tech-stack/postgresql.svg" height="32" alt="PostgreSQL"></a>
-      </td>
-    </tr>
-  </tbody>
-</table>
+<p>
+  <a href="https://www.python.org/"><img src="./assets/tech-stack/python.svg" height="32" alt="Python"></a>
+  <a href="https://www.rust-lang.org/"><img src="./assets/tech-stack/rust.svg" height="32" alt="Rust"></a>
+  <a href="https://en.cppreference.com/w/c.html"><img src="./assets/tech-stack/c.svg" height="32" alt="C"></a>
+  <a href="https://www.typescriptlang.org/"><img src="./assets/tech-stack/typescript.svg" height="32" alt="TypeScript"></a>
+</p>
 
-<sub>[Icon credits](./assets/tech-stack/NOTICE.md)</sub>
+### Infrastructure & Tools
+
+<p>
+  <a href="https://www.kernel.org/"><img src="./assets/tech-stack/linux.svg" height="32" alt="Linux"></a>
+  <a href="https://www.docker.com/"><img src="./assets/tech-stack/docker.svg" height="32" alt="Docker"></a>
+  <a href="https://kubernetes.io/"><img src="./assets/tech-stack/kubernetes.svg" height="32" alt="Kubernetes"></a>
+  <a href="https://aws.amazon.com/"><img src="./assets/tech-stack/aws.svg" height="32" alt="AWS"></a>
+  <a href="https://docs.langchain.com/oss/python/langchain/overview"><img src="./assets/tech-stack/langchain.svg" height="32" alt="LangChain"></a>
+  <a href="https://docs.langchain.com/oss/python/langgraph/overview"><img src="./assets/tech-stack/langgraph.svg" height="32" alt="LangGraph"></a>
+  <a href="https://docs.langchain.com/oss/python/deepagents/overview"><img src="./assets/tech-stack/deepagents.svg" height="32" alt="Deep Agents"></a>
+  <a href="https://langfuse.com/"><img src="./assets/tech-stack/langfuse.svg" height="32" alt="Langfuse"></a>
+  <a href="https://opentelemetry.io/"><img src="./assets/tech-stack/opentelemetry.svg" height="32" alt="OpenTelemetry"></a>
+  <a href="https://milvus.io/"><img src="./assets/tech-stack/milvus.svg" height="32" alt="Milvus"></a>
+  <a href="https://www.postgresql.org/"><img src="./assets/tech-stack/postgresql.svg" height="32" alt="PostgreSQL"></a>
+</p>
 
 ### Open-source projects
 
@@ -66,10 +55,12 @@
 
 ### Contributed to
 
-[![systemd](./assets/contributions/systemd.svg)](https://github.com/systemd/systemd/pulls?q=is%3Apr+is%3Amerged+author%3ATotoro-qaq)
-[![Apache Maka](./assets/contributions/apache-maka.svg)](https://github.com/apache/maka/pulls?q=is%3Apr+is%3Amerged+author%3ATotoro-qaq)
-[![CopilotKit](./assets/contributions/copilotkit.svg)](https://github.com/CopilotKit/CopilotKit/pulls?q=is%3Apr+is%3Amerged+author%3ATotoro-qaq)
-[![Cherry Studio](./assets/contributions/cherry-studio.svg)](https://github.com/CherryHQ/cherry-studio/pulls?q=is%3Apr+is%3Amerged+author%3ATotoro-qaq)
+<p>
+  <a href="https://systemd.io/" title="systemd project website"><img src="./assets/contributions/systemd-icon.svg" height="32" alt="systemd project website"></a>&#8288;<a href="https://github.com/systemd/systemd/pulls?q=is%3Apr+is%3Amerged+author%3ATotoro-qaq" title="My merged PRs in systemd"><img src="./assets/contributions/systemd.svg" height="32" alt="systemd merged PRs"></a>
+  <a href="https://maka.apache.org/en/" title="Apache Maka project website"><img src="./assets/contributions/apache-maka-icon.svg" height="32" alt="Apache Maka project website"></a>&#8288;<a href="https://github.com/apache/maka/pulls?q=is%3Apr+is%3Amerged+author%3ATotoro-qaq" title="My merged PRs in Apache Maka"><img src="./assets/contributions/apache-maka.svg" height="32" alt="Apache Maka merged PRs"></a>
+  <a href="https://www.copilotkit.ai/" title="CopilotKit project website"><img src="./assets/contributions/copilotkit-icon.svg" height="32" alt="CopilotKit project website"></a>&#8288;<a href="https://github.com/CopilotKit/CopilotKit/pulls?q=is%3Apr+is%3Amerged+author%3ATotoro-qaq" title="My merged PRs in CopilotKit"><img src="./assets/contributions/copilotkit.svg" height="32" alt="CopilotKit merged PRs"></a>
+  <a href="https://cherry-ai.com/" title="Cherry Studio project website"><img src="./assets/contributions/cherry-studio-icon.png" height="32" alt="Cherry Studio project website"></a>&#8288;<a href="https://github.com/CherryHQ/cherry-studio/pulls?q=is%3Apr+is%3Amerged+author%3ATotoro-qaq" title="My merged PRs in Cherry Studio"><img src="./assets/contributions/cherry-studio.svg" height="32" alt="Cherry Studio merged PRs"></a>
+</p>
 
 [View all merged contributions →](https://github.com/search?q=author%3ATotoro-qaq+is%3Apr+is%3Amerged+-user%3ATotoro-qaq&type=pullrequests)
 
@@ -79,3 +70,5 @@
     <img src="https://raw.githubusercontent.com/Totoro-qaq/Totoro-qaq/output/github-contribution-grid-snake.svg" width="100%" alt="Snake animation of Totoro's GitHub contribution graph">
   </picture>
 </p>
+
+<sub>[Icon credits](./assets/NOTICE.md)</sub>

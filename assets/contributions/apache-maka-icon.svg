@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="32" height="32" viewBox="0 0 32 32" role="img" aria-labelledby="title">
+  <title id="title">Apache Maka project website</title>
+  <desc>Official project icon. See NOTICE.md for sources and licenses.</desc>
+  <path d="M3 0H32V32H3Q0 32 0 29V3Q0 0 3 0Z" fill="#30363d" />
+  <svg viewBox="0 0 1024 1024" width="20" height="20" x="8" y="6" aria-hidden="true">
+    <g transform="translate(100 100) scale(0.804688)">
+      <rect width="1024" height="1024" rx="229" ry="229" fill="#47A3E2" />
+    </g>
+    <g transform="translate(100 100) scale(0.804688)">
+      <g fill="none" stroke-width="70" stroke-miterlimit="8">
+        <path d="M 359.1 537.0 L 512.0 274.0 L 664.9 537.0" stroke="#FFFFFF" stroke-linecap="butt" stroke-linejoin="round" />
+        <path d="M 180.0 845.0 L 359.1 537.0 L 512.0 800.0" stroke="#FFFFFF" stroke-linecap="round" stroke-linejoin="miter" />
+        <path d="M 844.0 845.0 L 664.9 537.0 L 512.0 800.0" stroke="#FFFFFF" stroke-linecap="round" stroke-linejoin="miter" />
+        <path d="M 405.0 162.0 L 619.0 162.0" stroke="#FFFFFF" stroke-linecap="round" stroke-linejoin="round" />
+      </g>
+    </g>
+  </svg>
+</svg>
