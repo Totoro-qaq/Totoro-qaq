@@ -3,14 +3,41 @@
   <img src="./assets/intro-light.svg" width="760" alt="Hi, I'm Totoro, a Full-Stack &amp; AI Agent Engineer. I enjoy open source and sharing what I learn.">
 </picture>
 
-### Programming
+### Tech stack
 
-<p>
-  <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&amp;logo=python&amp;logoColor=white">
-  <img alt="Rust" src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&amp;logo=rust&amp;logoColor=white">
-  <img alt="C" src="https://img.shields.io/badge/C-00599C?style=for-the-badge&amp;logo=c&amp;logoColor=white">
-  <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&amp;logo=typescript&amp;logoColor=white">
-</p>
+<table width="100%">
+  <thead>
+    <tr>
+      <th width="33%" align="left">Languages</th>
+      <th width="67%" align="left">Infrastructure &amp; AI Tooling</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td valign="top">
+      <a href="https://www.python.org/"><img src="./assets/tech-stack/python.svg" height="32" alt="Python"></a>
+      <a href="https://www.rust-lang.org/"><img src="./assets/tech-stack/rust.svg" height="32" alt="Rust"></a>
+      <a href="https://en.cppreference.com/w/c.html"><img src="./assets/tech-stack/c.svg" height="32" alt="C"></a>
+      <a href="https://www.typescriptlang.org/"><img src="./assets/tech-stack/typescript.svg" height="32" alt="TypeScript"></a>
+      </td>
+      <td valign="top">
+      <a href="https://www.kernel.org/"><img src="./assets/tech-stack/linux.svg" height="32" alt="Linux"></a>
+      <a href="https://www.docker.com/"><img src="./assets/tech-stack/docker.svg" height="32" alt="Docker"></a>
+      <a href="https://kubernetes.io/"><img src="./assets/tech-stack/kubernetes.svg" height="32" alt="Kubernetes"></a>
+      <a href="https://aws.amazon.com/"><img src="./assets/tech-stack/aws.svg" height="32" alt="AWS"></a>
+      <a href="https://docs.langchain.com/oss/python/langchain/overview"><img src="./assets/tech-stack/langchain.svg" height="32" alt="LangChain"></a>
+      <a href="https://docs.langchain.com/oss/python/langgraph/overview"><img src="./assets/tech-stack/langgraph.svg" height="32" alt="LangGraph"></a>
+      <a href="https://docs.langchain.com/oss/python/deepagents/overview"><img src="./assets/tech-stack/deepagents.svg" height="32" alt="Deep Agents"></a>
+      <a href="https://langfuse.com/"><img src="./assets/tech-stack/langfuse.svg" height="32" alt="Langfuse"></a>
+      <a href="https://opentelemetry.io/"><img src="./assets/tech-stack/opentelemetry.svg" height="32" alt="OpenTelemetry"></a>
+      <a href="https://milvus.io/"><img src="./assets/tech-stack/milvus.svg" height="32" alt="Milvus"></a>
+      <a href="https://www.postgresql.org/"><img src="./assets/tech-stack/postgresql.svg" height="32" alt="PostgreSQL"></a>
+      </td>
+    </tr>
+  </tbody>
+</table>
+
+<sub>[Icon credits](./assets/tech-stack/NOTICE.md)</sub>
 
 ### Open-source projects
 
