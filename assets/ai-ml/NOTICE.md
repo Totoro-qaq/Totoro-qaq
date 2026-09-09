@@ -2,7 +2,7 @@
 
 ## Models and training
 
-The detection-frame, document, parameter-adjustment, preference-comparison, and human-feedback symbols in `yolo.svg`, `sft.svg`, `lora-qlora.svg`, `dpo.svg`, and `rlhf.svg` are original functional illustrations created for this profile. They are not official logos of the named techniques or a particular YOLO implementation.
+The detection-frame, document, parameter-adjustment, preference-comparison, and group-relative-scoring symbols in `yolo.svg`, `sft.svg`, `lora-qlora.svg`, `dpo.svg`, and `grpo.svg` are original functional illustrations created for this profile. They are not official logos of the named techniques or a particular YOLO implementation.
 
 ## Inference and deployment
 

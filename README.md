@@ -10,6 +10,7 @@
   <a href="https://www.rust-lang.org/"><img src="./assets/tech-stack/rust.svg" height="32" alt="Rust"></a>
   <a href="https://en.cppreference.com/w/c.html"><img src="./assets/tech-stack/c.svg" height="32" alt="C"></a>
   <a href="https://www.typescriptlang.org/"><img src="./assets/tech-stack/typescript.svg" height="32" alt="TypeScript"></a>
+  <a href="https://go.dev/"><img src="./assets/tech-stack/go.svg" height="32" alt="Go"></a>
 </p>
 
 ### Infrastructure & Tools
@@ -37,7 +38,7 @@
   <a href="https://huggingface.co/docs/trl/sft_trainer"><img src="./assets/ai-ml/sft.svg" height="32" alt="SFT"></a>
   <a href="https://huggingface.co/docs/peft/developer_guides/quantization"><img src="./assets/ai-ml/lora-qlora.svg" height="32" alt="LoRA / QLoRA"></a>
   <a href="https://huggingface.co/docs/trl/dpo_trainer"><img src="./assets/ai-ml/dpo.svg" height="32" alt="DPO"></a>
-  <a href="https://huggingface.co/blog/rlhf"><img src="./assets/ai-ml/rlhf.svg" height="32" alt="RLHF"></a>
+  <a href="https://huggingface.co/docs/trl/grpo_trainer"><img src="./assets/ai-ml/grpo.svg" height="32" alt="GRPO"></a>
 </p>
 
 **Inference & Deployment**
@@ -79,8 +80,9 @@
 <p>
   <a href="https://systemd.io/" title="systemd project website"><img src="./assets/contributions/systemd-icon.svg" height="32" alt="systemd project website"></a>&#8288;<a href="https://github.com/systemd/systemd/pulls?q=is%3Apr+is%3Amerged+author%3ATotoro-qaq" title="My merged PRs in systemd"><img src="./assets/contributions/systemd.svg" height="32" alt="systemd merged PRs"></a>
   <a href="https://maka.apache.org/en/" title="Apache Maka project website"><img src="./assets/contributions/apache-maka-icon.svg" height="32" alt="Apache Maka project website"></a>&#8288;<a href="https://github.com/apache/maka/pulls?q=is%3Apr+is%3Amerged+author%3ATotoro-qaq" title="My merged PRs in Apache Maka"><img src="./assets/contributions/apache-maka.svg" height="32" alt="Apache Maka merged PRs"></a>
-  <a href="https://www.copilotkit.ai/" title="CopilotKit project website"><img src="./assets/contributions/copilotkit-icon.svg" height="32" alt="CopilotKit project website"></a>&#8288;<a href="https://github.com/CopilotKit/CopilotKit/pulls?q=is%3Apr+is%3Amerged+author%3ATotoro-qaq" title="My merged PRs in CopilotKit"><img src="./assets/contributions/copilotkit.svg" height="32" alt="CopilotKit merged PRs"></a>
+  <a href="https://hermes-agent.nousresearch.com/" title="Hermes Agent project website"><img src="./assets/contributions/hermes-agent-icon.png" height="32" alt="Hermes Agent project website"></a>&#8288;<a href="https://github.com/NousResearch/hermes-agent/commits/main/?author=Totoro-qaq" title="My commits on main in Hermes Agent"><img src="./assets/contributions/hermes-agent.svg" height="32" alt="Hermes Agent commits on main"></a>
   <a href="https://cherry-ai.com/" title="Cherry Studio project website"><img src="./assets/contributions/cherry-studio-icon.png" height="32" alt="Cherry Studio project website"></a>&#8288;<a href="https://github.com/CherryHQ/cherry-studio/pulls?q=is%3Apr+is%3Amerged+author%3ATotoro-qaq" title="My merged PRs in Cherry Studio"><img src="./assets/contributions/cherry-studio.svg" height="32" alt="Cherry Studio merged PRs"></a>
+  <a href="https://www.copilotkit.ai/" title="CopilotKit project website"><img src="./assets/contributions/copilotkit-icon.svg" height="32" alt="CopilotKit project website"></a>&#8288;<a href="https://github.com/CopilotKit/CopilotKit/pulls?q=is%3Apr+is%3Amerged+author%3ATotoro-qaq" title="My merged PRs in CopilotKit"><img src="./assets/contributions/copilotkit.svg" height="32" alt="CopilotKit merged PRs"></a>
 </p>
 
 [View all merged contributions →](https://github.com/search?q=author%3ATotoro-qaq+is%3Apr+is%3Amerged+-user%3ATotoro-qaq&type=pullrequests)
