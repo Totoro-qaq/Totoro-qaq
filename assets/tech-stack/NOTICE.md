@@ -5,6 +5,7 @@ These icons identify technologies used in this profile. Their names and trademar
 | Badge | Icon source | License information |
 | --- | --- | --- |
 | `c.svg` | [C](https://commons.wikimedia.org/wiki/File:The_C_Programming_Language_logo.svg) via [Simple Icons](https://github.com/simple-icons/simple-icons/blob/777807a262bb7384ff406fd4b35fdcd02e9514c3/icons/c.svg) | Simple Icons distribution: CC0-1.0; see upstream source |
+| `celery.svg` | [Celery](https://github.com/celery/celery/blob/4d77ddddb10797011dc10dd2e4e1e7a7467b8431/docs/images/favicon.ico) via [Simple Icons](https://github.com/simple-icons/simple-icons/blob/777807a262bb7384ff406fd4b35fdcd02e9514c3/icons/celery.svg) | Simple Icons distribution: CC0-1.0; see upstream source |
 | `docker.svg` | [Docker](https://www.docker.com/company/newsroom/media-resources) via [Simple Icons](https://github.com/simple-icons/simple-icons/blob/777807a262bb7384ff406fd4b35fdcd02e9514c3/icons/docker.svg) | Simple Icons distribution: CC0-1.0; see upstream source |
 | `go.svg` | [Go](https://go.dev/blog/go-brand) via [Simple Icons](https://github.com/simple-icons/simple-icons/blob/15.22.0/icons/go.svg) | Simple Icons distribution: CC0-1.0; see upstream source |
 | `kubernetes.svg` | [Kubernetes](https://github.com/kubernetes/kubernetes/tree/cac53883f4714452f3084a22e4be20d042a9df33/logo) via [Simple Icons](https://github.com/simple-icons/simple-icons/blob/777807a262bb7384ff406fd4b35fdcd02e9514c3/icons/kubernetes.svg) | Simple Icons distribution: CC0-1.0; see upstream source |

@@ -27,6 +27,7 @@
   <a href="https://opentelemetry.io/"><img src="./assets/tech-stack/opentelemetry.svg" height="32" alt="OpenTelemetry"></a>
   <a href="https://milvus.io/"><img src="./assets/tech-stack/milvus.svg" height="32" alt="Milvus"></a>
   <a href="https://www.postgresql.org/"><img src="./assets/tech-stack/postgresql.svg" height="32" alt="PostgreSQL"></a>
+  <a href="https://docs.celeryq.dev/"><img src="./assets/tech-stack/celery.svg" height="32" alt="Celery"></a>
 </p>
 
 ### AI & Machine Learning
@@ -79,11 +80,11 @@
 
 <p>
   <a href="https://systemd.io/" title="systemd project website"><img src="./assets/contributions/systemd-icon.svg" height="32" alt="systemd project website"></a>&#8288;<a href="https://github.com/systemd/systemd/pulls?q=is%3Apr+is%3Amerged+author%3ATotoro-qaq" title="My merged PRs in systemd"><img src="./assets/contributions/systemd.svg" height="32" alt="systemd merged PRs"></a>
-  <a href="https://maka.apache.org/en/" title="Apache Maka project website"><img src="./assets/contributions/apache-maka-icon.svg" height="32" alt="Apache Maka project website"></a>&#8288;<a href="https://github.com/apache/maka/pulls?q=is%3Apr+is%3Amerged+author%3ATotoro-qaq" title="My merged PRs in Apache Maka"><img src="./assets/contributions/apache-maka.svg" height="32" alt="Apache Maka merged PRs"></a>
+  <a href="https://deerflow.tech/" title="DeerFlow project website"><img src="./assets/contributions/deer-flow-icon.svg" height="32" alt="DeerFlow project website"></a>&#8288;<a href="https://github.com/bytedance/deer-flow/pulls?q=is%3Apr+is%3Amerged+author%3ATotoro-qaq" title="My merged PRs in DeerFlow"><img src="./assets/contributions/deer-flow.svg" height="32" alt="DeerFlow merged PRs"></a>
   <a href="https://hermes-agent.nousresearch.com/" title="Hermes Agent project website"><img src="./assets/contributions/hermes-agent-icon.png" height="32" alt="Hermes Agent project website"></a>&#8288;<a href="https://github.com/NousResearch/hermes-agent/commits/main/?author=Totoro-qaq" title="My commits on main in Hermes Agent"><img src="./assets/contributions/hermes-agent.svg" height="32" alt="Hermes Agent commits on main"></a>
+  <a href="https://maka.apache.org/en/" title="Apache Maka project website"><img src="./assets/contributions/apache-maka-icon.svg" height="32" alt="Apache Maka project website"></a>&#8288;<a href="https://github.com/apache/maka/pulls?q=is%3Apr+is%3Amerged+author%3ATotoro-qaq" title="My merged PRs in Apache Maka"><img src="./assets/contributions/apache-maka.svg" height="32" alt="Apache Maka merged PRs"></a>
   <a href="https://cherry-ai.com/" title="Cherry Studio project website"><img src="./assets/contributions/cherry-studio-icon.png" height="32" alt="Cherry Studio project website"></a>&#8288;<a href="https://github.com/CherryHQ/cherry-studio/pulls?q=is%3Apr+is%3Amerged+author%3ATotoro-qaq" title="My merged PRs in Cherry Studio"><img src="./assets/contributions/cherry-studio.svg" height="32" alt="Cherry Studio merged PRs"></a>
   <a href="https://www.copilotkit.ai/" title="CopilotKit project website"><img src="./assets/contributions/copilotkit-icon.svg" height="32" alt="CopilotKit project website"></a>&#8288;<a href="https://github.com/CopilotKit/CopilotKit/pulls?q=is%3Apr+is%3Amerged+author%3ATotoro-qaq" title="My merged PRs in CopilotKit"><img src="./assets/contributions/copilotkit.svg" height="32" alt="CopilotKit merged PRs"></a>
-  <a href="https://deerflow.tech/" title="DeerFlow project website"><img src="./assets/contributions/deer-flow-icon.svg" height="32" alt="DeerFlow project website"></a>&#8288;<a href="https://github.com/bytedance/deer-flow/pulls?q=is%3Apr+is%3Amerged+author%3ATotoro-qaq" title="My merged PRs in DeerFlow"><img src="./assets/contributions/deer-flow.svg" height="32" alt="DeerFlow merged PRs"></a>
 </p>
 
 [View all merged contributions →](https://github.com/search?q=author%3ATotoro-qaq+is%3Apr+is%3Amerged+-user%3ATotoro-qaq&type=pullrequests)
