@@ -49,8 +49,6 @@ Full-stack engineer working on AI agent harnesses, developer tools, and systems 
   <a href="https://docs.celeryq.dev/"><img src="./assets/tech-stack/celery.svg" height="32" alt="Celery"></a>
 </p>
 
-**AI & Machine Learning**
-
 <p>
   <strong>Models &amp; Training</strong><br>
   <a href="https://docs.ultralytics.com/"><img src="./assets/ai-ml/yolo.svg" height="32" alt="YOLO"></a>
