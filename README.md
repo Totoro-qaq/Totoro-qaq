@@ -23,8 +23,9 @@ Full-stack engineer working on AI agent harnesses, developer tools, and systems 
 
 ### Tech stack
 
+<p><strong>Languages &amp; Frameworks</strong></p>
+
 <p>
-  <strong>Languages &amp; Frameworks</strong><br>
   <a href="https://www.python.org/"><img src="./assets/tech-stack/python.svg" height="32" alt="Python"></a>
   <a href="https://www.rust-lang.org/"><img src="./assets/tech-stack/rust.svg" height="32" alt="Rust"></a>
   <a href="https://en.cppreference.com/w/c.html"><img src="./assets/tech-stack/c.svg" height="32" alt="C"></a>
@@ -32,8 +33,9 @@ Full-stack engineer working on AI agent harnesses, developer tools, and systems 
   <a href="https://go.dev/"><img src="./assets/tech-stack/go.svg" height="32" alt="Go"></a>
 </p>
 
+<p><strong>Infrastructure &amp; Tools</strong></p>
+
 <p>
-  <strong>Infrastructure &amp; Tools</strong><br>
   <a href="https://www.kernel.org/"><img src="./assets/tech-stack/linux.svg" height="32" alt="Linux"></a>
   <a href="https://www.docker.com/"><img src="./assets/tech-stack/docker.svg" height="32" alt="Docker"></a>
   <a href="https://kubernetes.io/"><img src="./assets/tech-stack/kubernetes.svg" height="32" alt="Kubernetes"></a>
@@ -49,8 +51,9 @@ Full-stack engineer working on AI agent harnesses, developer tools, and systems 
   <a href="https://docs.celeryq.dev/"><img src="./assets/tech-stack/celery.svg" height="32" alt="Celery"></a>
 </p>
 
+<p><strong>Models &amp; Training</strong></p>
+
 <p>
-  <strong>Models &amp; Training</strong><br>
   <a href="https://docs.ultralytics.com/"><img src="./assets/ai-ml/yolo.svg" height="32" alt="YOLO"></a>
   <a href="https://huggingface.co/docs/trl/sft_trainer"><img src="./assets/ai-ml/sft.svg" height="32" alt="SFT"></a>
   <a href="https://huggingface.co/docs/peft/developer_guides/quantization"><img src="./assets/ai-ml/lora-qlora.svg" height="32" alt="LoRA / QLoRA"></a>
@@ -58,8 +61,9 @@ Full-stack engineer working on AI agent harnesses, developer tools, and systems 
   <a href="https://huggingface.co/docs/trl/grpo_trainer"><img src="./assets/ai-ml/grpo.svg" height="32" alt="GRPO"></a>
 </p>
 
+<p><strong>Inference &amp; Deployment</strong></p>
+
 <p>
-  <strong>Inference &amp; Deployment</strong><br>
   <a href="https://docs.vllm.ai/en/latest/"><img src="./assets/ai-ml/vllm.png" height="32" alt="vLLM"></a>
   <a href="https://docs.sglang.io/"><img src="./assets/ai-ml/sglang.png" height="32" alt="SGLang"></a>
   <a href="https://github.com/ggml-org/llama.cpp"><img src="./assets/ai-ml/llama-cpp.svg" height="32" alt="llama.cpp"></a>
