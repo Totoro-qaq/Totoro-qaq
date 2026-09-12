@@ -1,6 +1,6 @@
 # Contribution icon credits
 
-The icon and project-name portions form one visual badge. Icons link to the official project websites; names link to merged pull requests authored by Totoro-qaq (for Hermes Agent, to commits on `main` authored by Totoro-qaq: its maintainers land contributor commits by cherry-picking them with authorship preserved). The artwork retains its original colors and geometry and is scaled into the icon portion.
+The icon and project-name portions form one visual badge. Icons link to the official project websites; names link to merged pull requests authored by Totoro-qaq (for Hermes Agent, to commits on `main` authored by Totoro-qaq: its maintainers land contributor commits by cherry-picking them with authorship preserved). The artwork retains its original colors and geometry and is scaled into the icon portion; the one exception is DeerFlow's uncolored mark, described below.
 
 | Project | Source | License and attribution |
 | --- | --- | --- |
@@ -9,11 +9,12 @@ The icon and project-name portions form one visual badge. Icons link to the offi
 | CopilotKit | [Official mark](https://github.com/CopilotKit/CopilotKit/blob/078260605a2ccfa0042fb4d835f36f0c4960fdc6/examples/integrations/claude-sdk-python/public/copilotkit-logo-mark.svg) | Copyright (c) Atai Barkai. [MIT](./licenses/copilotkit-LICENSE.txt). |
 | Hermes Agent | [Official desktop application icon](https://github.com/NousResearch/hermes-agent/blob/fd6434b3b36592367ac5faa180b905d64e29214c/apps/desktop/assets/icon.png) | Copyright (c) 2025 Nous Research. [MIT](./licenses/hermes-agent-LICENSE.txt). The original PNG and rendering source are included in `sources/`. |
 | Cherry Studio | [Official application icon](https://github.com/CherryHQ/cherry-studio/blob/e85d13ca8469c0e1d61ac8d575d50691305fd4a2/build/icon.png) | Source: Cherry Studio project / CherryHQ. Repository [AGPL-3.0](./licenses/cherry-studio-LICENSE.txt). The adapted icon badge is distributed under AGPL-3.0; the original PNG and rendering source are included in `sources/`. No artwork copyright year has been inferred from the license text. |
+| DeerFlow | [Official deer mark](https://github.com/bytedance/deer-flow/blob/572744975d369fda88168aaa7b481282f939affe/frontend/public/images/deer.svg) (also the project's Helm chart icon) | Copyright (c) 2025 Bytedance Ltd. and/or its affiliates; Copyright (c) 2025-2026 DeerFlow Authors. [MIT](./licenses/deer-flow-LICENSE.txt). The unmodified original is included in `sources/deer-flow-deer.svg`. |
 
 ## Source and modifications
 
-Modified on 2026-09-07 to create the contribution badges described below; the Hermes Agent badge was added on 2026-09-10 the same way.
+Modified on 2026-09-07 to create the contribution badges described below; the Hermes Agent badge was added on 2026-09-10 and the DeerFlow badge on 2026-09-12 the same way.
 
-Original SVGs and the original Cherry Studio PNG are included in `sources/`. SVG artwork is unmodified apart from scaling, viewport/identifier normalization, and placement on the badge background. Cherry Studio's and Hermes Agent's PNGs are resized to 40 by 40 pixels and placed on a 64 by 64 transparent badge canvas, displayed at 32 pixels high.
+Original SVGs and the original Cherry Studio PNG are included in `sources/`. SVG artwork is unmodified apart from scaling, viewport/identifier normalization, and placement on the badge background. DeerFlow's mark carries no fill color (it renders black by default and is used as a shape mask on the project's own site, where its landing page draws it in white on a dark background), so its path is filled white to stay visible on the dark badge background; the geometry is unchanged. Cherry Studio's and Hermes Agent's PNGs are resized to 40 by 40 pixels and placed on a 64 by 64 transparent badge canvas, displayed at 32 pixels high.
 
 To regenerate the Cherry Studio badge, install `sharp` in a scratch Node.js project and run `sources/render-cherry-badge.mjs` with that dependency available; the Hermes Agent badge is produced by `sources/render-hermes-badge.py` with Pillow. The scripts contain the exact rendering parameters. These component licenses do not change the license of unrelated profile text or assets.
