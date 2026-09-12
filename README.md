@@ -1,9 +1,29 @@
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="./assets/intro-dark.svg">
-  <img src="./assets/intro-light.svg" width="760" alt="Hi, I'm Totoro, a Full-Stack &amp; AI Agent Engineer. I enjoy open source and sharing what I learn.">
-</picture>
+# Hi, I'm Totoro.
 
-### Languages & Frameworks
+Full-stack engineer working on AI agent harnesses, developer tools, and systems software.
+
+### Contributed to
+
+<p>
+  <a href="https://hermes-agent.nousresearch.com/" title="Hermes Agent project website"><img src="./assets/contributions/hermes-agent-icon.png" height="32" alt="Hermes Agent project website"></a>&#8288;<a href="https://github.com/NousResearch/hermes-agent/commits/main/?author=Totoro-qaq" title="My commits on main in Hermes Agent"><img src="./assets/contributions/hermes-agent.svg" height="32" alt="Hermes Agent commits on main"></a>
+  <a href="https://deerflow.tech/" title="DeerFlow project website"><img src="./assets/contributions/deer-flow-icon.svg" height="32" alt="DeerFlow project website"></a>&#8288;<a href="https://github.com/bytedance/deer-flow/pulls?q=is%3Apr+is%3Amerged+author%3ATotoro-qaq" title="My merged PRs in DeerFlow"><img src="./assets/contributions/deer-flow.svg" height="32" alt="DeerFlow merged PRs"></a>
+  <a href="https://systemd.io/" title="systemd project website"><img src="./assets/contributions/systemd-icon.svg" height="32" alt="systemd project website"></a>&#8288;<a href="https://github.com/systemd/systemd/pulls?q=is%3Apr+is%3Amerged+author%3ATotoro-qaq" title="My merged PRs in systemd"><img src="./assets/contributions/systemd.svg" height="32" alt="systemd merged PRs"></a>
+  <a href="https://maka.apache.org/en/" title="Apache Maka project website"><img src="./assets/contributions/apache-maka-icon.svg" height="32" alt="Apache Maka project website"></a>&#8288;<a href="https://github.com/apache/maka/pulls?q=is%3Apr+is%3Amerged+author%3ATotoro-qaq" title="My merged PRs in Apache Maka"><img src="./assets/contributions/apache-maka.svg" height="32" alt="Apache Maka merged PRs"></a>
+  <a href="https://cherry-ai.com/" title="Cherry Studio project website"><img src="./assets/contributions/cherry-studio-icon.png" height="32" alt="Cherry Studio project website"></a>&#8288;<a href="https://github.com/CherryHQ/cherry-studio/pulls?q=is%3Apr+is%3Amerged+author%3ATotoro-qaq" title="My merged PRs in Cherry Studio"><img src="./assets/contributions/cherry-studio.svg" height="32" alt="Cherry Studio merged PRs"></a>
+  <a href="https://www.copilotkit.ai/" title="CopilotKit project website"><img src="./assets/contributions/copilotkit-icon.svg" height="32" alt="CopilotKit project website"></a>&#8288;<a href="https://github.com/CopilotKit/CopilotKit/pulls?q=is%3Apr+is%3Amerged+author%3ATotoro-qaq" title="My merged PRs in CopilotKit"><img src="./assets/contributions/copilotkit.svg" height="32" alt="CopilotKit merged PRs"></a>
+</p>
+
+[Browse merged PRs →](https://github.com/search?q=author%3ATotoro-qaq+is%3Apr+is%3Amerged+-user%3ATotoro-qaq&type=pullrequests)
+
+### Selected projects
+
+- **[dsh-plugin-bridge](https://github.com/Totoro-qaq/dsh-plugin-bridge)** — Move sessions between DeepSeek Harness presets, with a preview before import.
+- **[Restork](https://github.com/Totoro-qaq/restork)** — A local desktop agent that lets you review file changes before they are written.
+- **[Cobsidian](https://github.com/Totoro-qaq/Cobsidian)** — A workflow for AI assistants to organize and maintain Obsidian vaults.
+
+### Tech stack
+
+#### Languages & Frameworks
 
 <p>
   <a href="https://www.python.org/"><img src="./assets/tech-stack/python.svg" height="32" alt="Python"></a>
@@ -13,7 +33,7 @@
   <a href="https://go.dev/"><img src="./assets/tech-stack/go.svg" height="32" alt="Go"></a>
 </p>
 
-### Infrastructure & Tools
+#### Infrastructure & Tools
 
 <p>
   <a href="https://www.kernel.org/"><img src="./assets/tech-stack/linux.svg" height="32" alt="Linux"></a>
@@ -24,13 +44,16 @@
   <a href="https://docs.langchain.com/oss/python/langgraph/overview"><img src="./assets/tech-stack/langgraph.svg" height="32" alt="LangGraph"></a>
   <a href="https://docs.langchain.com/oss/python/deepagents/overview"><img src="./assets/tech-stack/deepagents.svg" height="32" alt="Deep Agents"></a>
   <a href="https://langfuse.com/"><img src="./assets/tech-stack/langfuse.svg" height="32" alt="Langfuse"></a>
+</p>
+
+<p>
   <a href="https://opentelemetry.io/"><img src="./assets/tech-stack/opentelemetry.svg" height="32" alt="OpenTelemetry"></a>
   <a href="https://milvus.io/"><img src="./assets/tech-stack/milvus.svg" height="32" alt="Milvus"></a>
   <a href="https://www.postgresql.org/"><img src="./assets/tech-stack/postgresql.svg" height="32" alt="PostgreSQL"></a>
   <a href="https://docs.celeryq.dev/"><img src="./assets/tech-stack/celery.svg" height="32" alt="Celery"></a>
 </p>
 
-### AI & Machine Learning
+#### AI & Machine Learning
 
 **Models & Training**
 
@@ -50,44 +73,6 @@
   <a href="https://github.com/ggml-org/llama.cpp"><img src="./assets/ai-ml/llama-cpp.svg" height="32" alt="llama.cpp"></a>
   <a href="https://onnxruntime.ai/"><img src="./assets/ai-ml/onnx-runtime.png" height="32" alt="ONNX Runtime"></a>
 </p>
-
-### Open-source projects
-
-<table width="100%">
-  <thead>
-    <tr>
-      <th width="30%" align="center" valign="middle">Project</th>
-      <th width="1000" align="center" valign="middle">Description</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td align="center" valign="middle"><strong><a href="https://github.com/Totoro-qaq/dsh-plugin-bridge">dsh-plugin-bridge</a></strong></td>
-      <td align="left" valign="middle">Previewable cross-preset session handoffs for DeepSeek Harness.</td>
-    </tr>
-    <tr>
-      <td align="center" valign="middle"><strong><a href="https://github.com/Totoro-qaq/restork">restork</a></strong></td>
-      <td align="left" valign="middle">A local-first desktop agent workspace with reviewable writes.</td>
-    </tr>
-    <tr>
-      <td align="center" valign="middle"><strong><a href="https://github.com/Totoro-qaq/Cobsidian">Cobsidian</a></strong></td>
-      <td align="left" valign="middle">An agent-agnostic workflow for maintaining Obsidian knowledge bases.</td>
-    </tr>
-  </tbody>
-</table>
-
-### Contributed to
-
-<p>
-  <a href="https://systemd.io/" title="systemd project website"><img src="./assets/contributions/systemd-icon.svg" height="32" alt="systemd project website"></a>&#8288;<a href="https://github.com/systemd/systemd/pulls?q=is%3Apr+is%3Amerged+author%3ATotoro-qaq" title="My merged PRs in systemd"><img src="./assets/contributions/systemd.svg" height="32" alt="systemd merged PRs"></a>
-  <a href="https://deerflow.tech/" title="DeerFlow project website"><img src="./assets/contributions/deer-flow-icon.svg" height="32" alt="DeerFlow project website"></a>&#8288;<a href="https://github.com/bytedance/deer-flow/pulls?q=is%3Apr+is%3Amerged+author%3ATotoro-qaq" title="My merged PRs in DeerFlow"><img src="./assets/contributions/deer-flow.svg" height="32" alt="DeerFlow merged PRs"></a>
-  <a href="https://hermes-agent.nousresearch.com/" title="Hermes Agent project website"><img src="./assets/contributions/hermes-agent-icon.png" height="32" alt="Hermes Agent project website"></a>&#8288;<a href="https://github.com/NousResearch/hermes-agent/commits/main/?author=Totoro-qaq" title="My commits on main in Hermes Agent"><img src="./assets/contributions/hermes-agent.svg" height="32" alt="Hermes Agent commits on main"></a>
-  <a href="https://maka.apache.org/en/" title="Apache Maka project website"><img src="./assets/contributions/apache-maka-icon.svg" height="32" alt="Apache Maka project website"></a>&#8288;<a href="https://github.com/apache/maka/pulls?q=is%3Apr+is%3Amerged+author%3ATotoro-qaq" title="My merged PRs in Apache Maka"><img src="./assets/contributions/apache-maka.svg" height="32" alt="Apache Maka merged PRs"></a>
-  <a href="https://cherry-ai.com/" title="Cherry Studio project website"><img src="./assets/contributions/cherry-studio-icon.png" height="32" alt="Cherry Studio project website"></a>&#8288;<a href="https://github.com/CherryHQ/cherry-studio/pulls?q=is%3Apr+is%3Amerged+author%3ATotoro-qaq" title="My merged PRs in Cherry Studio"><img src="./assets/contributions/cherry-studio.svg" height="32" alt="Cherry Studio merged PRs"></a>
-  <a href="https://www.copilotkit.ai/" title="CopilotKit project website"><img src="./assets/contributions/copilotkit-icon.svg" height="32" alt="CopilotKit project website"></a>&#8288;<a href="https://github.com/CopilotKit/CopilotKit/pulls?q=is%3Apr+is%3Amerged+author%3ATotoro-qaq" title="My merged PRs in CopilotKit"><img src="./assets/contributions/copilotkit.svg" height="32" alt="CopilotKit merged PRs"></a>
-</p>
-
-[View all merged contributions →](https://github.com/search?q=author%3ATotoro-qaq+is%3Apr+is%3Amerged+-user%3ATotoro-qaq&type=pullrequests)
 
 <p>
   <picture>
