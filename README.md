@@ -1,6 +1,6 @@
 # Hi, I'm Totoro.
 
-Full-stack engineer working on AI agent harnesses, developer tools, and systems software.
+AI agent harness and full-stack engineer.
 
 ### Contributed to
 
