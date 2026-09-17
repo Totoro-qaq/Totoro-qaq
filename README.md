@@ -2,7 +2,7 @@
 
 AI Agent Harness Engineer & Full-Stack Engineer
 
-Cross-conversation references, honest tool results, durable agent state.
+Runtime, state, memory, context, permissions and tool results.
 
 ### Contributed to
 
