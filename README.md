@@ -1,6 +1,8 @@
 # Hi, I'm Totoro.
 
-AI agent harness and full-stack engineer.
+AI Agent Harness Engineer & Full-Stack Engineer
+
+Cross-conversation references, honest tool results, durable agent state.
 
 ### Contributed to
 
@@ -19,7 +21,7 @@ AI agent harness and full-stack engineer.
 ### Selected projects
 
 - **[dsh-plugin-bridge](https://github.com/Totoro-qaq/dsh-plugin-bridge)** — Move sessions between DeepSeek Harness presets, with a preview before import.
-- **[Restork](https://github.com/Totoro-qaq/restork)** — A local desktop agent that lets you review file changes before they are written.
+- **[Restork](https://github.com/Totoro-qaq/restork)** — A local-first desktop workspace for evidence-backed research, learning and work, with results kept as Markdown.
 - **[Cobsidian](https://github.com/Totoro-qaq/Cobsidian)** — A workflow for AI assistants to organize and maintain Obsidian vaults.
 
 ### Tech stack
