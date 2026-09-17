@@ -2,7 +2,7 @@
 
 AI Agent Harness Engineer & Full-Stack Engineer
 
-Runtime, state, memory, context, permissions and tool results.
+I work on agent harness internals: runtime, state, memory, context and permissions.
 
 ### Contributed to
 
