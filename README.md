@@ -21,7 +21,7 @@ I work on agent harness internals: runtime, state, memory, context and permissio
 ### Selected projects
 
 - **[dsh-plugin-bridge](https://github.com/Totoro-qaq/dsh-plugin-bridge)** — Move sessions between DeepSeek Harness presets, with a preview before import.
-- **[Restork](https://github.com/Totoro-qaq/restork)** — A local-first desktop workspace for evidence-backed research, learning and work, with results kept as Markdown.
+- **[dsh-jot](https://github.com/Totoro-qaq/dsh-jot)** — A local notebook beside DeepSeek Harness chats, with rich text, checklists, tables and optional AI collaboration.
 - **[Cobsidian](https://github.com/Totoro-qaq/Cobsidian)** — A workflow for AI assistants to organize and maintain Obsidian vaults.
 
 ### Tech stack
