@@ -7,7 +7,7 @@ I work on agent harness internals: runtime, state, memory, context and permissio
 ### Contributed to
 
 <p>
-  <a href="https://hermes-agent.nousresearch.com/" title="Hermes Agent project website"><img src="./assets/contributions/hermes-agent-icon.png" height="32" alt="Hermes Agent project website"></a>&#8288;<a href="https://github.com/NousResearch/hermes-agent/commits/main/?author=Totoro-qaq%40users.noreply.github.com" title="My commits on main in Hermes Agent"><img src="./assets/contributions/hermes-agent.svg" height="32" alt="Hermes Agent commits on main"></a>
+  <a href="https://hermes-agent.nousresearch.com/" title="Hermes Agent project website"><img src="./assets/contributions/hermes-agent-icon.png" height="32" alt="Hermes Agent project website"></a>&#8288;<a href="https://github.com/NousResearch/hermes-agent/pulls?q=is%3Apr+is%3Amerged+%28author%3ATotoro-qaq+OR+Totoro-qaq+in%3Abody%29" title="Merged PRs and credited contributions in Hermes Agent"><img src="./assets/contributions/hermes-agent.svg" height="32" alt="Hermes Agent merged PRs and credited contributions"></a>
   <a href="https://deerflow.tech/" title="DeerFlow project website"><img src="./assets/contributions/deer-flow-icon.svg" height="32" alt="DeerFlow project website"></a>&#8288;<a href="https://github.com/bytedance/deer-flow/pulls?q=is%3Apr+is%3Amerged+author%3ATotoro-qaq" title="My merged PRs in DeerFlow"><img src="./assets/contributions/deer-flow.svg" height="32" alt="DeerFlow merged PRs"></a>
   <a href="https://systemd.io/" title="systemd project website"><img src="./assets/contributions/systemd-icon.svg" height="32" alt="systemd project website"></a>&#8288;<a href="https://github.com/systemd/systemd/pulls?q=is%3Apr+is%3Amerged+author%3ATotoro-qaq" title="My merged PRs in systemd"><img src="./assets/contributions/systemd.svg" height="32" alt="systemd merged PRs"></a>
   <a href="https://maka.apache.org/en/" title="Apache Maka project website"><img src="./assets/contributions/apache-maka-icon.svg" height="32" alt="Apache Maka project website"></a>&#8288;<a href="https://github.com/apache/maka/pulls?q=is%3Apr+is%3Amerged+author%3ATotoro-qaq" title="My merged PRs in Apache Maka"><img src="./assets/contributions/apache-maka.svg" height="32" alt="Apache Maka merged PRs"></a>
@@ -22,6 +22,7 @@ I work on agent harness internals: runtime, state, memory, context and permissio
 
 - **[dsh-plugin-bridge](https://github.com/Totoro-qaq/dsh-plugin-bridge)** — Move sessions between DeepSeek Harness presets, with a preview before import.
 - **[dsh-jot](https://github.com/Totoro-qaq/dsh-jot)** — A local notebook beside DeepSeek Harness chats, with rich text, checklists, tables and optional AI collaboration.
+- **[hermes-jot](https://github.com/Totoro-qaq/hermes-jot)** — Notes, checklists and documents beside Hermes Desktop chats, with optional AI collaboration and undo for agent edits.
 - **[Cobsidian](https://github.com/Totoro-qaq/Cobsidian)** — A workflow for AI assistants to organize and maintain Obsidian vaults.
 
 ### Tech stack
