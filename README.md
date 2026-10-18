@@ -1,8 +1,8 @@
 # Hi, I'm Totoro.
 
-AI Agent Harness Engineer & Full-Stack Engineer
+**AI Agent Harness Engineer & Full-Stack Engineer**
 
-I work on agent harness internals: runtime, state, memory, context and permissions.
+Building reliable agent runtimes and local-first human–agent workspaces — focusing on state handoff, memory/context lifecycle, and sandboxed execution.
 
 ### Contributed to
 
@@ -20,14 +20,14 @@ I work on agent harness internals: runtime, state, memory, context and permissio
 
 ### Selected projects
 
-- **[dsh-plugin-bridge](https://github.com/Totoro-qaq/dsh-plugin-bridge)** — Move sessions between DeepSeek Harness presets, with a preview before import.
-- **[dsh-jot](https://github.com/Totoro-qaq/dsh-jot)** — A local notebook beside DeepSeek Harness chats, with rich text, checklists, tables and optional AI collaboration.
-- **[hermes-jot](https://github.com/Totoro-qaq/hermes-jot)** — Notes, checklists and documents beside Hermes Desktop chats, with optional AI collaboration and undo for agent edits.
-- **[Cobsidian](https://github.com/Totoro-qaq/Cobsidian)** — A workflow for AI assistants to organize and maintain Obsidian vaults.
+- **[dsh-plugin-bridge](https://github.com/Totoro-qaq/dsh-plugin-bridge)** — Previewable cross-preset session migration for DeepSeek Harness; fixed-schema handoffs preserve state, model intent, and unresolved images.
+- **[restork](https://github.com/Totoro-qaq/restork)** — A Rust desktop agent you can trust with files: preview every write, sandbox MCP tools, and keep Markdown local.
+- **[dsh-jot](https://github.com/Totoro-qaq/dsh-jot)** / **[hermes-jot](https://github.com/Totoro-qaq/hermes-jot)** — Sidecar notebooks beside DeepSeek Harness & Hermes Desktop chats, with rich text, checklists, tables, and undoable agent edits.
+- **[Cobsidian](https://github.com/Totoro-qaq/Cobsidian)** — Agent-agnostic workflow skill for organizing and maintaining Obsidian knowledge vaults.
 
 ### Tech stack
 
-<p><strong>Languages &amp; Frameworks</strong></p>
+<p><strong>Languages</strong></p>
 
 <p>
   <a href="https://www.python.org/"><img src="./assets/tech-stack/python.svg" height="32" alt="Python"></a>
@@ -37,21 +37,25 @@ I work on agent harness internals: runtime, state, memory, context and permissio
   <a href="https://go.dev/"><img src="./assets/tech-stack/go.svg" height="32" alt="Go"></a>
 </p>
 
-<p><strong>Infrastructure &amp; Tools</strong></p>
+<p><strong>Agent Frameworks &amp; Observability</strong></p>
+
+<p>
+  <a href="https://docs.langchain.com/oss/python/langchain/overview"><img src="./assets/tech-stack/langchain.svg" height="32" alt="LangChain"></a>
+  <a href="https://docs.langchain.com/oss/python/langgraph/overview"><img src="./assets/tech-stack/langgraph.svg" height="32" alt="LangGraph"></a>
+  <a href="https://docs.langchain.com/oss/python/deepagents/overview"><img src="./assets/tech-stack/deepagents.svg" height="32" alt="Deep Agents"></a>
+  <a href="https://langfuse.com/"><img src="./assets/tech-stack/langfuse.svg" height="32" alt="Langfuse"></a>
+  <a href="https://opentelemetry.io/"><img src="./assets/tech-stack/opentelemetry.svg" height="32" alt="OpenTelemetry"></a>
+</p>
+
+<p><strong>Infrastructure &amp; Data</strong></p>
 
 <p>
   <a href="https://www.kernel.org/"><img src="./assets/tech-stack/linux.svg" height="32" alt="Linux"></a>
   <a href="https://www.docker.com/"><img src="./assets/tech-stack/docker.svg" height="32" alt="Docker"></a>
   <a href="https://kubernetes.io/"><img src="./assets/tech-stack/kubernetes.svg" height="32" alt="Kubernetes"></a>
   <a href="https://aws.amazon.com/"><img src="./assets/tech-stack/aws.svg" height="32" alt="AWS"></a>
-  <a href="https://docs.langchain.com/oss/python/langchain/overview"><img src="./assets/tech-stack/langchain.svg" height="32" alt="LangChain"></a>
-  <a href="https://docs.langchain.com/oss/python/langgraph/overview"><img src="./assets/tech-stack/langgraph.svg" height="32" alt="LangGraph"></a>
-  <a href="https://docs.langchain.com/oss/python/deepagents/overview"><img src="./assets/tech-stack/deepagents.svg" height="32" alt="Deep Agents"></a>
-  <a href="https://langfuse.com/"><img src="./assets/tech-stack/langfuse.svg" height="32" alt="Langfuse"></a>
-  <br>
-  <a href="https://opentelemetry.io/"><img src="./assets/tech-stack/opentelemetry.svg" height="32" alt="OpenTelemetry"></a>
-  <a href="https://milvus.io/"><img src="./assets/tech-stack/milvus.svg" height="32" alt="Milvus"></a>
   <a href="https://www.postgresql.org/"><img src="./assets/tech-stack/postgresql.svg" height="32" alt="PostgreSQL"></a>
+  <a href="https://milvus.io/"><img src="./assets/tech-stack/milvus.svg" height="32" alt="Milvus"></a>
   <a href="https://docs.celeryq.dev/"><img src="./assets/tech-stack/celery.svg" height="32" alt="Celery"></a>
 </p>
 
