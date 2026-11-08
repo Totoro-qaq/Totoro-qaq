@@ -1,88 +1,22 @@
 # Hi, I'm Totoro.
 
-**AI Agent Harness Engineer & Full-Stack Engineer**
+**DeerFlow committer.**
 
-Building reliable agent runtimes and local-first human–agent workspaces — focusing on state handoff, memory/context lifecycle, and sandboxed execution.
+Working on agent runtimes and LLM inference systems.
 
-### Contributed to
+### Selected open-source work
 
 <p>
-  <a href="https://hermes-agent.nousresearch.com/" title="Hermes Agent project website"><img src="./assets/contributions/hermes-agent-icon.png" height="32" alt="Hermes Agent project website"></a>&#8288;<a href="https://github.com/NousResearch/hermes-agent/pulls?q=is%3Apr+is%3Amerged+%28author%3ATotoro-qaq+OR+Totoro-qaq+in%3Abody%29" title="Merged PRs and credited contributions in Hermes Agent"><img src="./assets/contributions/hermes-agent.svg" height="32" alt="Hermes Agent merged PRs and credited contributions"></a>
   <a href="https://deerflow.tech/" title="DeerFlow project website"><img src="./assets/contributions/deer-flow-icon.svg" height="32" alt="DeerFlow project website"></a>&#8288;<a href="https://github.com/bytedance/deer-flow/pulls?q=is%3Apr+is%3Amerged+author%3ATotoro-qaq" title="My merged PRs in DeerFlow"><img src="./assets/contributions/deer-flow.svg" height="32" alt="DeerFlow merged PRs"></a>
   <a href="https://systemd.io/" title="systemd project website"><img src="./assets/contributions/systemd-icon.svg" height="32" alt="systemd project website"></a>&#8288;<a href="https://github.com/systemd/systemd/pulls?q=is%3Apr+is%3Amerged+author%3ATotoro-qaq" title="My merged PRs in systemd"><img src="./assets/contributions/systemd.svg" height="32" alt="systemd merged PRs"></a>
   <a href="https://maka.apache.org/en/" title="Apache Maka project website"><img src="./assets/contributions/apache-maka-icon.svg" height="32" alt="Apache Maka project website"></a>&#8288;<a href="https://github.com/apache/maka/pulls?q=is%3Apr+is%3Amerged+author%3ATotoro-qaq" title="My merged PRs in Apache Maka"><img src="./assets/contributions/apache-maka.svg" height="32" alt="Apache Maka merged PRs"></a>
-  <a href="https://lobehub.com/" title="LobeHub project website"><img src="./assets/contributions/lobehub-icon.svg" height="32" alt="LobeHub project website"></a>&#8288;<a href="https://github.com/lobehub/lobehub/commits/canary/?author=Totoro-qaq" title="My commits in LobeHub"><img src="./assets/contributions/lobehub.svg" height="32" alt="LobeHub commits"></a>
-  <a href="https://cherry-ai.com/" title="Cherry Studio project website"><img src="./assets/contributions/cherry-studio-icon.png" height="32" alt="Cherry Studio project website"></a>&#8288;<a href="https://github.com/CherryHQ/cherry-studio/pulls?q=is%3Apr+is%3Amerged+author%3ATotoro-qaq" title="My merged PRs in Cherry Studio"><img src="./assets/contributions/cherry-studio.svg" height="32" alt="Cherry Studio merged PRs"></a>
-  <a href="https://www.copilotkit.ai/" title="CopilotKit project website"><img src="./assets/contributions/copilotkit-icon.svg" height="32" alt="CopilotKit project website"></a>&#8288;<a href="https://github.com/CopilotKit/CopilotKit/pulls?q=is%3Apr+is%3Amerged+author%3ATotoro-qaq" title="My merged PRs in CopilotKit"><img src="./assets/contributions/copilotkit.svg" height="32" alt="CopilotKit merged PRs"></a>
+  <a href="https://github.com/vllm-project/vllm/pulls?q=is%3Apr+author%3ATotoro-qaq" title="My PRs in vLLM"><img src="./assets/ai-ml/vllm.png" height="32" alt="vLLM PRs"></a>
 </p>
-
-[Browse merged PRs →](https://github.com/search?q=author%3ATotoro-qaq+is%3Apr+is%3Amerged+-user%3ATotoro-qaq&type=pullrequests)
 
 ### Selected projects
 
-- **[dsh-plugin-bridge](https://github.com/Totoro-qaq/dsh-plugin-bridge)** — Previewable cross-preset session migration for DeepSeek Harness; fixed-schema handoffs preserve state, model intent, and unresolved images.
-- **[restork](https://github.com/Totoro-qaq/restork)** — A Rust desktop agent you can trust with files: preview every write, sandbox MCP tools, and keep Markdown local.
-- **[dsh-jot](https://github.com/Totoro-qaq/dsh-jot)** / **[hermes-jot](https://github.com/Totoro-qaq/hermes-jot)** — Sidecar notebooks beside DeepSeek Harness & Hermes Desktop chats, with rich text, checklists, tables, and undoable agent edits.
-- **[Cobsidian](https://github.com/Totoro-qaq/Cobsidian)** — Agent-agnostic workflow skill for organizing and maintaining Obsidian knowledge vaults.
-
-### Tech stack
-
-<p><strong>Languages</strong></p>
-
-<p>
-  <a href="https://www.python.org/"><img src="./assets/tech-stack/python.svg" height="32" alt="Python"></a>
-  <a href="https://www.rust-lang.org/"><img src="./assets/tech-stack/rust.svg" height="32" alt="Rust"></a>
-  <a href="https://en.cppreference.com/w/c.html"><img src="./assets/tech-stack/c.svg" height="32" alt="C"></a>
-  <a href="https://www.typescriptlang.org/"><img src="./assets/tech-stack/typescript.svg" height="32" alt="TypeScript"></a>
-  <a href="https://go.dev/"><img src="./assets/tech-stack/go.svg" height="32" alt="Go"></a>
-</p>
-
-<p><strong>Agent Frameworks &amp; Observability</strong></p>
-
-<p>
-  <a href="https://docs.langchain.com/oss/python/langchain/overview"><img src="./assets/tech-stack/langchain.svg" height="32" alt="LangChain"></a>
-  <a href="https://docs.langchain.com/oss/python/langgraph/overview"><img src="./assets/tech-stack/langgraph.svg" height="32" alt="LangGraph"></a>
-  <a href="https://docs.langchain.com/oss/python/deepagents/overview"><img src="./assets/tech-stack/deepagents.svg" height="32" alt="Deep Agents"></a>
-  <a href="https://langfuse.com/"><img src="./assets/tech-stack/langfuse.svg" height="32" alt="Langfuse"></a>
-  <a href="https://opentelemetry.io/"><img src="./assets/tech-stack/opentelemetry.svg" height="32" alt="OpenTelemetry"></a>
-</p>
-
-<p><strong>Infrastructure &amp; Data</strong></p>
-
-<p>
-  <a href="https://www.kernel.org/"><img src="./assets/tech-stack/linux.svg" height="32" alt="Linux"></a>
-  <a href="https://www.docker.com/"><img src="./assets/tech-stack/docker.svg" height="32" alt="Docker"></a>
-  <a href="https://kubernetes.io/"><img src="./assets/tech-stack/kubernetes.svg" height="32" alt="Kubernetes"></a>
-  <a href="https://aws.amazon.com/"><img src="./assets/tech-stack/aws.svg" height="32" alt="AWS"></a>
-  <a href="https://www.postgresql.org/"><img src="./assets/tech-stack/postgresql.svg" height="32" alt="PostgreSQL"></a>
-  <a href="https://milvus.io/"><img src="./assets/tech-stack/milvus.svg" height="32" alt="Milvus"></a>
-  <a href="https://docs.celeryq.dev/"><img src="./assets/tech-stack/celery.svg" height="32" alt="Celery"></a>
-</p>
-
-<p><strong>Models &amp; Training</strong></p>
-
-<p>
-  <a href="https://docs.ultralytics.com/"><img src="./assets/ai-ml/yolo.svg" height="32" alt="YOLO"></a>
-  <a href="https://huggingface.co/docs/trl/sft_trainer"><img src="./assets/ai-ml/sft.svg" height="32" alt="SFT"></a>
-  <a href="https://huggingface.co/docs/peft/developer_guides/quantization"><img src="./assets/ai-ml/lora-qlora.svg" height="32" alt="LoRA / QLoRA"></a>
-  <a href="https://huggingface.co/docs/trl/dpo_trainer"><img src="./assets/ai-ml/dpo.svg" height="32" alt="DPO"></a>
-  <a href="https://huggingface.co/docs/trl/grpo_trainer"><img src="./assets/ai-ml/grpo.svg" height="32" alt="GRPO"></a>
-</p>
-
-<p><strong>Inference &amp; Deployment</strong></p>
-
-<p>
-  <a href="https://docs.vllm.ai/en/latest/"><img src="./assets/ai-ml/vllm.png" height="32" alt="vLLM"></a>
-  <a href="https://docs.sglang.io/"><img src="./assets/ai-ml/sglang.png" height="32" alt="SGLang"></a>
-  <a href="https://github.com/ggml-org/llama.cpp"><img src="./assets/ai-ml/llama-cpp.svg" height="32" alt="llama.cpp"></a>
-  <a href="https://onnxruntime.ai/"><img src="./assets/ai-ml/onnx-runtime.png" height="32" alt="ONNX Runtime"></a>
-</p>
-
-<p>
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Totoro-qaq/Totoro-qaq/output/github-contribution-grid-snake-dark.svg">
-    <img src="https://raw.githubusercontent.com/Totoro-qaq/Totoro-qaq/output/github-contribution-grid-snake.svg" width="100%" alt="Snake animation of Totoro's GitHub contribution graph">
-  </picture>
-</p>
+- **[Bridge](https://github.com/Totoro-qaq/dsh-plugin-bridge)** — Previewable session handoffs for DeepSeek Harness.
+- **[Jot](https://github.com/Totoro-qaq/dsh-jot)** — Notes, checklists and documents beside DeepSeek Harness chats.
+- **[Cobsidian](https://github.com/Totoro-qaq/Cobsidian)** — Agent-agnostic workflows for maintaining Obsidian knowledge bases.
 
 <sub>[Icon credits](./assets/NOTICE.md)</sub>
